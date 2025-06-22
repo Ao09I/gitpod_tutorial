@@ -3,7 +3,7 @@
 このプロジェクトは、以下の自動チェックを通じてコードレビューにおける自動化の価値を体験する演習環境です。
 
 ## 📌 やること
-1. Gitpodで開く（`https://gitpod.io/#<このリポジトリのURL>`）
+1. Gitpodで開く（`https://gitpod.io/#https://github.com/Ao09I/gitpod_tutorial`）
 2. 以下のスクリプトでCI風チェックを実行
    ```bash
    npm run lint
